@@ -8,4 +8,4 @@ Delievarables:
 ![screenshot](map1.png)
 ![screenshot](map2.png)
 
-Conclusion: Basil and Sadhana now have an interacive map that shows when earthquakes have happened
+Conclusion: Basil and Sadhana now have an interacive map that shows when earthquakes have happened.
